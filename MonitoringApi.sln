@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitoringApi", "MonitoringApi\MonitoringApi.csproj", "{7F210EFD-E3B2-4B63-9A7D-67FB51663BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F210EFD-E3B2-4B63-9A7D-67FB51663BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F210EFD-E3B2-4B63-9A7D-67FB51663BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F210EFD-E3B2-4B63-9A7D-67FB51663BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F210EFD-E3B2-4B63-9A7D-67FB51663BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {756D8DFD-B64D-4D4A-91F2-39A253D4497F}
+	EndGlobalSection
+EndGlobal
